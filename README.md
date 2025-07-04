@@ -44,9 +44,9 @@ Provision an AWS EC2 instance using Terraform to simulate infrastructure deploym
 
 | Terraform Plan Output |
 |------------------------|
-|[Terraform Plan Output](terraform_plan_output(1).png) |
-|[Terraform Plan Output](terraform_plan_output(2).png) |
-|[Terraform Plan Output](terraform_plan_output(3).png) |
+![Terraform Plan Output 1](terraform-plan-output(1).png)
+![Terraform Plan Output 2](terraform-plan-output(2).png)
+![Terraform Plan Output 3](terraform-plan-output(3).png)
 
 
 
