@@ -65,7 +65,8 @@ You can simulate this project on your system by following these steps:
 ```bash
 terraform init
 terraform plan
-
+--------------------------------------------------------------------
+----------------------------------------------------------------------------------
 # No AWS credentials or paid services are needed. This is a simulation for learning/demo purposes only.
 
 
